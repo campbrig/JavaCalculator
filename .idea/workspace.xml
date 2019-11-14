@@ -1,42 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="75ef23ab-2d83-485b-a358-54cb3ff3296b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ProjectId" id="1TcDxsBibkK86UkkG5QNsXWOX0H" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/House Accounts App/Homework/NotHere/pa01" value="PREVIEW" />
+        <entry key="C:/House Accounts App/Homework/pa02" value="PREVIEW" />
+        <entry key="C:/House Accounts App/Homework/pa03" value="PREVIEW" />
+        <entry key="C:/House Accounts App/Homework/pa03/pa03" value="PREVIEW" />
+        <entry key="C:/House Accounts App/Homework/pp01" value="PREVIEW" />
+      </map>
     </option>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="648" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
   </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="75ef23ab-2d83-485b-a358-54cb3ff3296b" name="Default Changelist" comment="" />
-      <created>1573750739321</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1573750739321</updated>
-    </task>
-    <servers />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
